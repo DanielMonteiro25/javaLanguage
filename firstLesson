@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class estudyClass {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Digite o seu nome: "); // tirei o nl pois não quero quebra de linha
+		Scanner nome = new Scanner(System.in);
+		String str = nome.next();
+		System.out.println("Oi " + str);
+		
+		
+		
+		// loop forever (for ;;) {  }
+		
+		
+		
+		
+		
+		
+		
+		
+		int x[] = new int[10]; // isso é equivalente a: int *ptr = malloc(sizeof(int) * 10) em c
+		
+		// tipos primitivos não tem médotos em java, classes sim
+		
+	}
+}
+
+,3
